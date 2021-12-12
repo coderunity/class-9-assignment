@@ -353,8 +353,6 @@ localStorage.setItem('Developer Data',Developerobject)
 
 
 
-// git remote add origin https://github.com/coderunity/class-9-assignment.git
-// git branch -M main
-// git push -u origin main
+
 
 
